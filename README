@@ -1,0 +1,12 @@
+-------------------------
+  Arcade Project - C++
+-------------------------
+
+USAGE:
+./arcade ./lib/lib_arcade_*.so
+
+You'll find more informations about the project such as documentation,
+manual pages and classes hierarchy to this address: arcade.projet-burkina.fr
+
+Don't pay attention to the link's domain, that's temporary.
+Project made by David Munoz, Adrien Missioux and Lucas Onillon.
